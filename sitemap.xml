@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://calldirectorai.github.io/stella-s-hair-braiding-home/</loc>
+    <lastmod>2026-10-30T20:04:40.686Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://calldirectorai.github.io/stella-s-hair-braiding-home/visit/</loc>
     <lastmod>2026-10-30T19:22:06.797Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,11 +28,6 @@
   <url>
     <loc>https://calldirectorai.github.io/stella-s-hair-braiding-home/prices/</loc>
     <lastmod>2026-10-30T19:21:39.730Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://calldirectorai.github.io/stella-s-hair-braiding-home/</loc>
-    <lastmod>2026-10-30T19:21:33.371Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
